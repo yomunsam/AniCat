@@ -1,0 +1,1 @@
+{"Tracks":[{"GameObjectName":"Sphere","TransformPath":"Sphere","TrackName":"Animation Track","TrackType":"UnityEngine.Animator"},{"GameObjectName":"Cube","TransformPath":"go1/go2/Cube","TrackName":"Animation Track (1)","TrackType":"UnityEngine.Animator"},{"GameObjectName":"","TransformPath":"","TrackName":"Activation Track","TrackType":"UnityEngine.GameObject"}]}
